@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="app_name">com.github.nirmalpatidar123</string>
+<string name="alert_network_not_exist">Network unavailable.\nPlease check your connection.</string>
+</resources>

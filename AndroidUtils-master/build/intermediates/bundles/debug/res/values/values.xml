@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/git/AndroidUtilsTest/AndroidUtils-master/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="alert_network_not_exist">Network unavailable.\nPlease check your connection.</string>
+    <string name="app_name">com.github.nirmalpatidar123</string>
+</resources>
